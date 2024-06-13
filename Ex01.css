@@ -158,6 +158,9 @@ aside{
     margin-left: 20px;
     /*border: 1px solid #c2c1c1;   */
 }
+.tin{
+    border: 1px solid #c2c1c1;
+}
 #tin-noi-bat h3{
     font-size: 18px;
     font-weight: 600;
@@ -225,7 +228,7 @@ aside{
     width: 300%;
 }
 .img-body-cl{
-    border: 1px solid #000;
+    border: 1px solid #818181;
     margin-right: 20px;
 }
 .img-body-cl img{
